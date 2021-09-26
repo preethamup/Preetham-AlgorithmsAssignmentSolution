@@ -1,0 +1,20 @@
+1:
+T (n) = 3T (n/2) + n
+T (n) = Θ(n^log3) --> Case 1
+
+2:
+T (n) = 64T (n/8) − n^2(log n)
+NA
+
+3:
+T (n) = 2nT (n/2) + n^n
+NA as a = 2n is not a constant
+
+4:
+T (n) = 3T (n/3) + n/2
+T (n) = Θ(n log n) --> Case 2
+
+
+5:
+T (n) = 7T (n/3) + n^2
+T (n) = Θ(n^2) --> Case 3
